@@ -1,7 +1,9 @@
 # autoformer_pytorch
 
-Depenedence：pytorch,einops
+This is an unofficial reproduction of [autoformer](https://arxiv.org/abs/2106.13008).
+Official code is [here](https://github.com/thuml/Autoformer).
 
+Depenedence：pytorch,einops
 
 # run
 
