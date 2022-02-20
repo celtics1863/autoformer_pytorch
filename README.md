@@ -40,10 +40,11 @@ config settings:
 
 
 # Thanks
-
+```
 @inproceedings{wu2021autoformer,
   title={Autoformer: Decomposition Transformers with {Auto-Correlation} for Long-Term Series Forecasting},
   author={Haixu Wu and Jiehui Xu and Jianmin Wang and Mingsheng Long},
   booktitle={Advances in Neural Information Processing Systems},
   year={2021}
 }
+```
