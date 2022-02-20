@@ -32,7 +32,7 @@ config settings:
 
 # Defference and Idea
 
-1. We set if no time stamp inputs, use positional embeddings
+1. If no time stamp inputs, use positional embeddings
 2. We set label_len == pred_len
 3. We guess autoformer will be better used in auto-regression problem for decoder structure use input trend as hint.
 4. Temporal Embeddings are usefull.
